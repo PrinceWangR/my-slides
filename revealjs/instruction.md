@@ -1,3 +1,7 @@
+# theme
+
+"default", "simple", "sky", "beige", "serif", "solarized", "blood", "moon", "night", "black", "league" or "white").
+
 # slide切换效果：
 
 "default", "fade", "slide", "convex", "concave", "zoom" or "none".
